@@ -1,0 +1,6 @@
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\PEER METHOD PROJECTS\peerMethods -Childress-20160210\peerMethods -Childress-20160210\bin\Debug\peerMethods -Childress-20160210.exe.config
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\PEER METHOD PROJECTS\peerMethods -Childress-20160210\peerMethods -Childress-20160210\bin\Debug\peerMethods -Childress-20160210.exe
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\PEER METHOD PROJECTS\peerMethods -Childress-20160210\peerMethods -Childress-20160210\bin\Debug\peerMethods -Childress-20160210.pdb
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\PEER METHOD PROJECTS\peerMethods -Childress-20160210\peerMethods -Childress-20160210\obj\Debug\peerMethods -Childress-20160210.csprojResolveAssemblyReference.cache
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\PEER METHOD PROJECTS\peerMethods -Childress-20160210\peerMethods -Childress-20160210\obj\Debug\peerMethods -Childress-20160210.exe
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\PEER METHOD PROJECTS\peerMethods -Childress-20160210\peerMethods -Childress-20160210\obj\Debug\peerMethods -Childress-20160210.pdb
